@@ -1,0 +1,13 @@
+develop
+develop.exceptions.funkos
+develop.exceptions.storage
+develop.locale
+develop.models
+develop.repositories.crud
+develop.repositories.funkos
+develop.services.cache
+develop.services.database
+develop.services.funkos
+develop.services.storage
+develop.utils
+services.funkos
